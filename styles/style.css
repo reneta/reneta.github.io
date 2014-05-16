@@ -1,7 +1,17 @@
-h1 {color:#00ff00;}
-body {
-	color:green;
- 	background-color: aqua;
-
+h1 {
+	color:#00ff00;
 }
-p { margin-left:100px; }	
+
+body {
+	color:#FF0077;
+ 	background-color: aqua;
+ 	background-image:url("../images/background.jpg");
+}
+
+p {
+	margin-left:100px;
+}	
+
+#location {
+	color:#FF33AA	
+}
